@@ -1,0 +1,373 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+JP&display=swap');
+
+/*-------------------------  共通  -------------------------*/
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Noto Sans JP', sans-serif;
+    background-color: #e7f4ff; 
+    color: #444;  
+    /* padding: 20px; */
+}
+
+/* ヘッダーのスタイル */
+header {
+    font-size: 2.5rem;
+    width: 100%;
+    color: white;
+    background-color: #4fb3ff;
+    padding: 45px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.logo {
+    position: absolute;
+    left: 20px;
+    top: 15px;
+}
+
+.logo img {
+    height: 120px;
+}
+
+/* フッター */
+footer {
+    width: 100%;
+    bottom: 0;
+    background-color: #4fb3ff;
+    color: white;
+    text-align: center;
+    padding: 35px 0;
+    /* margin-bottom: 20px; */
+    margin-top: 40px;
+}
+
+.footer-fix {
+    /* position: absolute; */
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    background-color: #4fb3ff;
+    color: white;
+    text-align: center;
+    padding: 35px 0;
+    /* margin-bottom: 20px; */
+    margin-top: 40px;
+}
+
+.footer-fix p {
+    margin: 0;
+}
+/*-------------------------  〆共通〆  -------------------------*/
+/* 情報エリア */
+.center{
+    display: flex;
+    justify-content: center;
+}
+.info {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.update-form {
+    margin-top: 20px;
+}
+
+.update-button {
+    background-color: #4fb3ff;
+    color: white;
+    padding: 12px 30px;
+    border: none;
+    font-size: 1.2rem;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.update-button:hover {
+    background-color: #5d9bc2;  /* ホバー時に少し濃い青 */
+}
+
+.back-button{
+    text-align: center;
+    margin: 80px 0;
+}
+.back-button a{
+    text-align: center;
+    text-decoration: none;
+    background-color: #4fb3ff;
+    color: #ffffff;
+    padding: 12px 30px;
+    border: none;
+    font-size: 1.2rem;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.back-button a:hover {
+    background-color: #5d9bc2;   /* ホバー時に少し濃い青 */
+}
+
+/* メインコンテンツのレイアウト */
+.main-content {
+    width: 1200px;
+    margin: 100px auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+/* ボタンのスタイル */
+.btn {
+    display: block;
+    text-decoration: none;
+    text-align: center;
+    background-color: #78b3e7;  
+    color: white;
+    padding: 47px 20px;
+    margin: 10px 0;
+    width: 330px;
+    border-radius: 25px;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.btn p {
+    font-size: 23px;
+}
+.btn:hover {
+    background-color: #7DA8C3;  /* ホバー時に少し濃い青 */
+    transform: scale(1.05);
+}
+/* ---------------------------------------  template  --------------------------------------- */
+/* PCの使用状況テーブル */
+.status-table {
+    width: 1000px;
+    margin: 50px auto;
+    border-collapse: collapse;
+    background-color: #ffffff;
+    box-shadow: 0 5px 7px rgba(0, 0, 0, 0.32);/*影*/
+}
+
+.status-table th {
+    background-color: #87c7ff; 
+    color: white;
+    padding: 10px;
+    text-align: left;
+    font-size: 30px;
+    border-bottom: 3px solid #00000075;
+    text-align: center;
+
+}
+
+.status-table td {
+    margin: 10px;
+    padding: 12px;
+    text-align: left;
+    border-bottom: 1px solid #00000075;
+    background-color: #ffffff;
+    text-align: center;
+    font-size: 20px;
+}
+
+
+.status-table tbody tr:last-child td {
+    border-bottom: none;
+}
+/* 使用中の行スタイル */
+.using {
+    background-color: #F08080;
+}
+
+.using td {
+    background-color: #F08080;
+}
+/* .notuse {
+    background-color: #98FF98;
+}
+
+.notuse td {
+    background-color: #98FF98;
+} */
+.disable {
+    background-color: #c8c8c8;
+}
+
+.disable td {
+    background-color: #c8c8c8;
+}
+/* ---------------------------------------  〆template〆  --------------------------------------- */
+
+/* ------------------------- ボタンのスタイル ------------------------- */
+
+/* ボタンの共通スタイル */
+.edit {
+    text-align: center;
+}
+.edit button {
+    font-size: 18px;
+    padding: 12px 24px;
+    margin: 10px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background 0.3s, transform 0.2s;
+    font-weight: bold;
+}
+
+/* 編集ボタン */
+#editModeButton {
+    background-color: #4fb3ff;
+    color: white;
+}
+
+#editModeButton:hover {
+    background-color: #5d9bc2; 
+}
+
+/* 確定ボタン */
+#saveChangesButton {
+    background-color: #2ecc71;
+    color: white;
+    display: none; /* 初期状態では非表示 */
+}
+
+#saveChangesButton:hover {
+    background-color: #27ae60;
+}
+
+/* ボタンを押したときのアニメーション */
+.edit button:active {
+    transform: scale(0.95);
+}
+
+
+
+/* ボタンの配置 */
+.etit button {
+    display: flex;
+    gap: 10px;
+}
+
+/* ------------------------- 編集モードのスタイル ------------------------- */
+
+/* 編集モード時のコメント欄 */
+.editable[contenteditable="true"] {
+    background-color: #fff3c4; /* 薄い黄色 */
+    border: 2px dashed #ff9800; /* オレンジの破線 */
+    outline: none;
+}
+
+/* 編集モードの行全体の視覚的な強調 */
+tr.editing {
+    background-color: #fffae6 !important;
+}
+
+/* ------------------------- 既存のスタイルを活かした調整 ------------------------- */
+
+/* PCの使用状況テーブル */
+.status-table {
+    width: 1000px;
+    margin: 50px auto;
+    border-collapse: collapse;
+    background-color: #ffffff;
+    box-shadow: 0 5px 7px rgba(0, 0, 0, 0.32);
+}
+
+.status-table th {
+    background-color: #87c7ff;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    font-size: 30px;
+    border-bottom: 3px solid #00000075;
+}
+
+.status-table td {
+    padding: 12px;
+    text-align: center;
+    border-bottom: 1px solid #00000075;
+    font-size: 20px;
+}
+
+/* ------------------------- レスポンシブ対応 ------------------------- */
+@media (max-width: 768px) {
+    header {
+        font-size: 1.8rem;
+        padding: 15px;
+    }
+
+    .status-table th, .status-table td {
+        font-size: 1rem;
+        padding: 8px;
+    }
+
+    button {
+        font-size: 1rem;
+        padding: 10px 20px;
+    }
+}
+
+/* レスポンシブ対応 */
+@media (max-width: 1024px) {
+    .main-content {
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
+@media (max-width: 768px) {
+    body {
+        padding: 10px;
+    }
+
+    header {
+        font-size: 2rem;
+        padding: 15px;
+    }
+
+    .btn {
+        width: 90%;
+        padding: 15px;
+    }
+
+    .update-button {
+        font-size: 1rem;
+        padding: 10px 20px;
+    }
+
+    .status-table {
+        overflow-x: auto;
+        display: block;
+    }
+
+    .status-table th, .status-table td {
+        font-size: 0.9rem;
+        padding: 8px;
+    }
+}
+
+@media (max-width: 480px) {
+    header {
+        font-size: 1.8rem;
+        padding: 10px;
+    }
+
+    .btn {
+        font-size: 1rem;
+        padding: 12px;
+        width: 100%;
+    }
+
+    .status-table th, .status-table td {
+        font-size: 0.8rem;
+        padding: 6px;
+    }
+}

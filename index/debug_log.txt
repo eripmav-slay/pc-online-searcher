@@ -1,0 +1,2043 @@
+
+受信データ: Array
+(
+    [updates] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [comment] => 
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [comment] => あああ
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [comment] => 
+                )
+
+            [3] => Array
+                (
+                    [id] => 4
+                    [comment] => 
+                )
+
+            [4] => Array
+                (
+                    [id] => 5
+                    [comment] => 
+                )
+
+            [5] => Array
+                (
+                    [id] => 6
+                    [comment] => 
+                )
+
+            [6] => Array
+                (
+                    [id] => 7
+                    [comment] => 
+                )
+
+            [7] => Array
+                (
+                    [id] => 8
+                    [comment] => 
+                )
+
+            [8] => Array
+                (
+                    [id] => 9
+                    [comment] => 
+                )
+
+            [9] => Array
+                (
+                    [id] => 10
+                    [comment] => 
+                )
+
+            [10] => Array
+                (
+                    [id] => 11
+                    [comment] => 
+                )
+
+            [11] => Array
+                (
+                    [id] => 12
+                    [comment] => 
+                )
+
+            [12] => Array
+                (
+                    [id] => 13
+                    [comment] => 
+                )
+
+            [13] => Array
+                (
+                    [id] => 14
+                    [comment] => 
+                )
+
+            [14] => Array
+                (
+                    [id] => 15
+                    [comment] => 
+                )
+
+            [15] => Array
+                (
+                    [id] => 16
+                    [comment] => 
+                )
+
+            [16] => Array
+                (
+                    [id] => 17
+                    [comment] => 
+                )
+
+            [17] => Array
+                (
+                    [id] => 18
+                    [comment] => 
+                )
+
+            [18] => Array
+                (
+                    [id] => 19
+                    [comment] => 
+                )
+
+            [19] => Array
+                (
+                    [id] => 20
+                    [comment] => 
+                )
+
+            [20] => Array
+                (
+                    [id] => 21
+                    [comment] => 
+                )
+
+        )
+
+)
+
+更新成功: ID=1, Comment=
+更新成功: ID=2, Comment=あああ
+更新成功: ID=3, Comment=
+更新成功: ID=4, Comment=
+更新成功: ID=5, Comment=
+更新成功: ID=6, Comment=
+更新成功: ID=7, Comment=
+更新成功: ID=8, Comment=
+更新成功: ID=9, Comment=
+更新成功: ID=10, Comment=
+更新成功: ID=11, Comment=
+更新成功: ID=12, Comment=
+更新成功: ID=13, Comment=
+更新成功: ID=14, Comment=
+更新成功: ID=15, Comment=
+更新成功: ID=16, Comment=
+更新成功: ID=17, Comment=
+更新成功: ID=18, Comment=
+更新成功: ID=19, Comment=
+更新成功: ID=20, Comment=
+更新成功: ID=21, Comment=
+受信データ: Array
+(
+    [updates] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [comment] => 
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [comment] => 
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [comment] => 
+                )
+
+            [3] => Array
+                (
+                    [id] => 4
+                    [comment] => 
+                )
+
+            [4] => Array
+                (
+                    [id] => 5
+                    [comment] => 
+                )
+
+            [5] => Array
+                (
+                    [id] => 6
+                    [comment] => 
+                )
+
+            [6] => Array
+                (
+                    [id] => 7
+                    [comment] => 
+                )
+
+            [7] => Array
+                (
+                    [id] => 8
+                    [comment] => 
+                )
+
+            [8] => Array
+                (
+                    [id] => 9
+                    [comment] => 
+                )
+
+            [9] => Array
+                (
+                    [id] => 10
+                    [comment] => 
+                )
+
+            [10] => Array
+                (
+                    [id] => 11
+                    [comment] => 
+                )
+
+            [11] => Array
+                (
+                    [id] => 12
+                    [comment] => 
+                )
+
+            [12] => Array
+                (
+                    [id] => 13
+                    [comment] => 
+                )
+
+            [13] => Array
+                (
+                    [id] => 14
+                    [comment] => 
+                )
+
+            [14] => Array
+                (
+                    [id] => 15
+                    [comment] => 
+                )
+
+            [15] => Array
+                (
+                    [id] => 16
+                    [comment] => 
+                )
+
+            [16] => Array
+                (
+                    [id] => 17
+                    [comment] => 
+                )
+
+            [17] => Array
+                (
+                    [id] => 18
+                    [comment] => 
+                )
+
+            [18] => Array
+                (
+                    [id] => 19
+                    [comment] => 
+                )
+
+            [19] => Array
+                (
+                    [id] => 20
+                    [comment] => 
+                )
+
+            [20] => Array
+                (
+                    [id] => 21
+                    [comment] => 
+                )
+
+        )
+
+)
+
+更新成功: ID=1, Comment=
+更新成功: ID=2, Comment=
+更新成功: ID=3, Comment=
+更新成功: ID=4, Comment=
+更新成功: ID=5, Comment=
+更新成功: ID=6, Comment=
+更新成功: ID=7, Comment=
+更新成功: ID=8, Comment=
+更新成功: ID=9, Comment=
+更新成功: ID=10, Comment=
+更新成功: ID=11, Comment=
+更新成功: ID=12, Comment=
+更新成功: ID=13, Comment=
+更新成功: ID=14, Comment=
+更新成功: ID=15, Comment=
+更新成功: ID=16, Comment=
+更新成功: ID=17, Comment=
+更新成功: ID=18, Comment=
+更新成功: ID=19, Comment=
+更新成功: ID=20, Comment=
+更新成功: ID=21, Comment=
+受信データ: Array
+(
+    [updates] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [comment] => 
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [comment] => 
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [comment] => 
+                )
+
+            [3] => Array
+                (
+                    [id] => 4
+                    [comment] => 
+                )
+
+            [4] => Array
+                (
+                    [id] => 5
+                    [comment] => 
+                )
+
+            [5] => Array
+                (
+                    [id] => 6
+                    [comment] => 
+                )
+
+            [6] => Array
+                (
+                    [id] => 7
+                    [comment] => 
+                )
+
+            [7] => Array
+                (
+                    [id] => 8
+                    [comment] => 
+                )
+
+            [8] => Array
+                (
+                    [id] => 9
+                    [comment] => 
+                )
+
+            [9] => Array
+                (
+                    [id] => 10
+                    [comment] => 
+                )
+
+            [10] => Array
+                (
+                    [id] => 11
+                    [comment] => 
+                )
+
+            [11] => Array
+                (
+                    [id] => 12
+                    [comment] => 
+                )
+
+            [12] => Array
+                (
+                    [id] => 13
+                    [comment] => 
+                )
+
+            [13] => Array
+                (
+                    [id] => 14
+                    [comment] => 
+                )
+
+            [14] => Array
+                (
+                    [id] => 15
+                    [comment] => 
+                )
+
+            [15] => Array
+                (
+                    [id] => 16
+                    [comment] => 
+                )
+
+            [16] => Array
+                (
+                    [id] => 17
+                    [comment] => 
+                )
+
+            [17] => Array
+                (
+                    [id] => 18
+                    [comment] => 
+                )
+
+            [18] => Array
+                (
+                    [id] => 19
+                    [comment] => 
+                )
+
+            [19] => Array
+                (
+                    [id] => 20
+                    [comment] => 
+                )
+
+            [20] => Array
+                (
+                    [id] => 21
+                    [comment] => 
+                )
+
+            [21] => Array
+                (
+                    [id] => 22
+                    [comment] => 
+                )
+
+            [22] => Array
+                (
+                    [id] => 23
+                    [comment] => 
+                )
+
+        )
+
+)
+
+更新成功: ID=1, Comment=
+更新成功: ID=2, Comment=
+更新成功: ID=3, Comment=
+更新成功: ID=4, Comment=
+更新成功: ID=5, Comment=
+更新成功: ID=6, Comment=
+更新成功: ID=7, Comment=
+更新成功: ID=8, Comment=
+更新成功: ID=9, Comment=
+更新成功: ID=10, Comment=
+更新成功: ID=11, Comment=
+更新成功: ID=12, Comment=
+更新成功: ID=13, Comment=
+更新成功: ID=14, Comment=
+更新成功: ID=15, Comment=
+更新成功: ID=16, Comment=
+更新成功: ID=17, Comment=
+更新成功: ID=18, Comment=
+更新成功: ID=19, Comment=
+更新成功: ID=20, Comment=
+更新成功: ID=21, Comment=
+更新成功: ID=22, Comment=
+更新成功: ID=23, Comment=
+受信データ: Array
+(
+    [updates] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [comment] => 
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [comment] => 
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [comment] => 
+                )
+
+            [3] => Array
+                (
+                    [id] => 4
+                    [comment] => 
+                )
+
+            [4] => Array
+                (
+                    [id] => 5
+                    [comment] => 
+                )
+
+            [5] => Array
+                (
+                    [id] => 6
+                    [comment] => 
+                )
+
+            [6] => Array
+                (
+                    [id] => 7
+                    [comment] => 
+                )
+
+            [7] => Array
+                (
+                    [id] => 8
+                    [comment] => 
+                )
+
+            [8] => Array
+                (
+                    [id] => 9
+                    [comment] => 
+                )
+
+            [9] => Array
+                (
+                    [id] => 10
+                    [comment] => 
+                )
+
+            [10] => Array
+                (
+                    [id] => 11
+                    [comment] => 
+                )
+
+            [11] => Array
+                (
+                    [id] => 12
+                    [comment] => 
+                )
+
+            [12] => Array
+                (
+                    [id] => 13
+                    [comment] => 
+                )
+
+            [13] => Array
+                (
+                    [id] => 14
+                    [comment] => 
+                )
+
+            [14] => Array
+                (
+                    [id] => 15
+                    [comment] => 
+                )
+
+            [15] => Array
+                (
+                    [id] => 16
+                    [comment] => 
+                )
+
+            [16] => Array
+                (
+                    [id] => 17
+                    [comment] => 
+                )
+
+            [17] => Array
+                (
+                    [id] => 18
+                    [comment] => 
+                )
+
+            [18] => Array
+                (
+                    [id] => 19
+                    [comment] => 
+                )
+
+            [19] => Array
+                (
+                    [id] => 20
+                    [comment] => 
+                )
+
+            [20] => Array
+                (
+                    [id] => 21
+                    [comment] => 
+                )
+
+            [21] => Array
+                (
+                    [id] => 22
+                    [comment] => 
+                )
+
+            [22] => Array
+                (
+                    [id] => 23
+                    [comment] => 
+                )
+
+        )
+
+)
+
+更新成功: ID=1, Comment=
+更新成功: ID=2, Comment=
+更新成功: ID=3, Comment=
+更新成功: ID=4, Comment=
+更新成功: ID=5, Comment=
+更新成功: ID=6, Comment=
+更新成功: ID=7, Comment=
+更新成功: ID=8, Comment=
+更新成功: ID=9, Comment=
+更新成功: ID=10, Comment=
+更新成功: ID=11, Comment=
+更新成功: ID=12, Comment=
+更新成功: ID=13, Comment=
+更新成功: ID=14, Comment=
+更新成功: ID=15, Comment=
+更新成功: ID=16, Comment=
+更新成功: ID=17, Comment=
+更新成功: ID=18, Comment=
+更新成功: ID=19, Comment=
+更新成功: ID=20, Comment=
+更新成功: ID=21, Comment=
+更新成功: ID=22, Comment=
+更新成功: ID=23, Comment=
+受信データ: Array
+(
+    [updates] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [comment] => 
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [comment] => 
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [comment] => 
+                )
+
+            [3] => Array
+                (
+                    [id] => 4
+                    [comment] => 
+                )
+
+            [4] => Array
+                (
+                    [id] => 5
+                    [comment] => 
+                )
+
+            [5] => Array
+                (
+                    [id] => 6
+                    [comment] => 
+                )
+
+            [6] => Array
+                (
+                    [id] => 7
+                    [comment] => 
+                )
+
+            [7] => Array
+                (
+                    [id] => 8
+                    [comment] => 
+                )
+
+            [8] => Array
+                (
+                    [id] => 9
+                    [comment] => 
+                )
+
+            [9] => Array
+                (
+                    [id] => 10
+                    [comment] => 
+                )
+
+            [10] => Array
+                (
+                    [id] => 11
+                    [comment] => 
+                )
+
+            [11] => Array
+                (
+                    [id] => 12
+                    [comment] => 
+                )
+
+            [12] => Array
+                (
+                    [id] => 13
+                    [comment] => 
+                )
+
+            [13] => Array
+                (
+                    [id] => 14
+                    [comment] => 
+                )
+
+            [14] => Array
+                (
+                    [id] => 15
+                    [comment] => 
+                )
+
+            [15] => Array
+                (
+                    [id] => 16
+                    [comment] => 
+                )
+
+            [16] => Array
+                (
+                    [id] => 17
+                    [comment] => 
+                )
+
+            [17] => Array
+                (
+                    [id] => 18
+                    [comment] => 
+                )
+
+            [18] => Array
+                (
+                    [id] => 19
+                    [comment] => 
+                )
+
+            [19] => Array
+                (
+                    [id] => 20
+                    [comment] => 
+                )
+
+            [20] => Array
+                (
+                    [id] => 21
+                    [comment] => 
+                )
+
+        )
+
+)
+
+更新成功: ID=1, Comment=
+更新成功: ID=2, Comment=
+更新成功: ID=3, Comment=
+更新成功: ID=4, Comment=
+更新成功: ID=5, Comment=
+更新成功: ID=6, Comment=
+更新成功: ID=7, Comment=
+更新成功: ID=8, Comment=
+更新成功: ID=9, Comment=
+更新成功: ID=10, Comment=
+更新成功: ID=11, Comment=
+更新成功: ID=12, Comment=
+更新成功: ID=13, Comment=
+更新成功: ID=14, Comment=
+更新成功: ID=15, Comment=
+更新成功: ID=16, Comment=
+更新成功: ID=17, Comment=
+更新成功: ID=18, Comment=
+更新成功: ID=19, Comment=
+更新成功: ID=20, Comment=
+更新成功: ID=21, Comment=
+受信データ: Array
+(
+    [updates] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [comment] => 検査中
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [comment] => 
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [comment] => 
+                )
+
+            [3] => Array
+                (
+                    [id] => 4
+                    [comment] => 
+                )
+
+            [4] => Array
+                (
+                    [id] => 5
+                    [comment] => 
+                )
+
+            [5] => Array
+                (
+                    [id] => 6
+                    [comment] => 
+                )
+
+            [6] => Array
+                (
+                    [id] => 7
+                    [comment] => 
+                )
+
+            [7] => Array
+                (
+                    [id] => 8
+                    [comment] => 
+                )
+
+            [8] => Array
+                (
+                    [id] => 9
+                    [comment] => 
+                )
+
+            [9] => Array
+                (
+                    [id] => 10
+                    [comment] => 
+                )
+
+            [10] => Array
+                (
+                    [id] => 11
+                    [comment] => 
+                )
+
+            [11] => Array
+                (
+                    [id] => 12
+                    [comment] => 
+                )
+
+            [12] => Array
+                (
+                    [id] => 13
+                    [comment] => 
+                )
+
+            [13] => Array
+                (
+                    [id] => 14
+                    [comment] => 
+                )
+
+            [14] => Array
+                (
+                    [id] => 15
+                    [comment] => 
+                )
+
+            [15] => Array
+                (
+                    [id] => 16
+                    [comment] => 
+                )
+
+            [16] => Array
+                (
+                    [id] => 17
+                    [comment] => 
+                )
+
+            [17] => Array
+                (
+                    [id] => 18
+                    [comment] => 
+                )
+
+            [18] => Array
+                (
+                    [id] => 19
+                    [comment] => 
+                )
+
+            [19] => Array
+                (
+                    [id] => 20
+                    [comment] => 
+                )
+
+            [20] => Array
+                (
+                    [id] => 21
+                    [comment] => 
+                )
+
+        )
+
+)
+
+更新成功: ID=1, Comment=検査中
+更新成功: ID=2, Comment=
+更新成功: ID=3, Comment=
+更新成功: ID=4, Comment=
+更新成功: ID=5, Comment=
+更新成功: ID=6, Comment=
+更新成功: ID=7, Comment=
+更新成功: ID=8, Comment=
+更新成功: ID=9, Comment=
+更新成功: ID=10, Comment=
+更新成功: ID=11, Comment=
+更新成功: ID=12, Comment=
+更新成功: ID=13, Comment=
+更新成功: ID=14, Comment=
+更新成功: ID=15, Comment=
+更新成功: ID=16, Comment=
+更新成功: ID=17, Comment=
+更新成功: ID=18, Comment=
+更新成功: ID=19, Comment=
+更新成功: ID=20, Comment=
+更新成功: ID=21, Comment=
+受信データ: Array
+(
+    [updates] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [comment] => 
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [comment] => 
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [comment] => 
+                )
+
+            [3] => Array
+                (
+                    [id] => 4
+                    [comment] => 
+                )
+
+            [4] => Array
+                (
+                    [id] => 5
+                    [comment] => 
+                )
+
+            [5] => Array
+                (
+                    [id] => 6
+                    [comment] => 
+                )
+
+            [6] => Array
+                (
+                    [id] => 7
+                    [comment] => 
+                )
+
+            [7] => Array
+                (
+                    [id] => 8
+                    [comment] => 
+                )
+
+            [8] => Array
+                (
+                    [id] => 9
+                    [comment] => 
+                )
+
+            [9] => Array
+                (
+                    [id] => 10
+                    [comment] => 
+                )
+
+            [10] => Array
+                (
+                    [id] => 11
+                    [comment] => 
+                )
+
+            [11] => Array
+                (
+                    [id] => 12
+                    [comment] => 
+                )
+
+            [12] => Array
+                (
+                    [id] => 13
+                    [comment] => 
+                )
+
+            [13] => Array
+                (
+                    [id] => 14
+                    [comment] => 
+                )
+
+            [14] => Array
+                (
+                    [id] => 15
+                    [comment] => 
+                )
+
+            [15] => Array
+                (
+                    [id] => 16
+                    [comment] => 
+                )
+
+            [16] => Array
+                (
+                    [id] => 17
+                    [comment] => 
+                )
+
+            [17] => Array
+                (
+                    [id] => 18
+                    [comment] => 
+                )
+
+            [18] => Array
+                (
+                    [id] => 19
+                    [comment] => 
+                )
+
+            [19] => Array
+                (
+                    [id] => 20
+                    [comment] => 
+                )
+
+            [20] => Array
+                (
+                    [id] => 21
+                    [comment] => 
+                )
+
+        )
+
+)
+
+更新成功: ID=1, Comment=
+更新成功: ID=2, Comment=
+更新成功: ID=3, Comment=
+更新成功: ID=4, Comment=
+更新成功: ID=5, Comment=
+更新成功: ID=6, Comment=
+更新成功: ID=7, Comment=
+更新成功: ID=8, Comment=
+更新成功: ID=9, Comment=
+更新成功: ID=10, Comment=
+更新成功: ID=11, Comment=
+更新成功: ID=12, Comment=
+更新成功: ID=13, Comment=
+更新成功: ID=14, Comment=
+更新成功: ID=15, Comment=
+更新成功: ID=16, Comment=
+更新成功: ID=17, Comment=
+更新成功: ID=18, Comment=
+更新成功: ID=19, Comment=
+更新成功: ID=20, Comment=
+更新成功: ID=21, Comment=
+受信データ: Array
+(
+    [updates] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [comment] => っｋ
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [comment] => 
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [comment] => 
+                )
+
+            [3] => Array
+                (
+                    [id] => 4
+                    [comment] => 
+                )
+
+            [4] => Array
+                (
+                    [id] => 5
+                    [comment] => 
+                )
+
+            [5] => Array
+                (
+                    [id] => 6
+                    [comment] => 
+                )
+
+            [6] => Array
+                (
+                    [id] => 7
+                    [comment] => 
+                )
+
+            [7] => Array
+                (
+                    [id] => 8
+                    [comment] => 
+                )
+
+            [8] => Array
+                (
+                    [id] => 9
+                    [comment] => 
+                )
+
+            [9] => Array
+                (
+                    [id] => 10
+                    [comment] => 
+                )
+
+            [10] => Array
+                (
+                    [id] => 11
+                    [comment] => 
+                )
+
+            [11] => Array
+                (
+                    [id] => 12
+                    [comment] => 
+                )
+
+            [12] => Array
+                (
+                    [id] => 13
+                    [comment] => 
+                )
+
+            [13] => Array
+                (
+                    [id] => 14
+                    [comment] => 
+                )
+
+            [14] => Array
+                (
+                    [id] => 15
+                    [comment] => 
+                )
+
+            [15] => Array
+                (
+                    [id] => 16
+                    [comment] => 
+                )
+
+            [16] => Array
+                (
+                    [id] => 17
+                    [comment] => 
+                )
+
+            [17] => Array
+                (
+                    [id] => 18
+                    [comment] => 
+                )
+
+            [18] => Array
+                (
+                    [id] => 19
+                    [comment] => 
+                )
+
+            [19] => Array
+                (
+                    [id] => 20
+                    [comment] => 
+                )
+
+            [20] => Array
+                (
+                    [id] => 21
+                    [comment] => 
+                )
+
+            [21] => Array
+                (
+                    [id] => 22
+                    [comment] => 
+                )
+
+            [22] => Array
+                (
+                    [id] => 23
+                    [comment] => 
+                )
+
+            [23] => Array
+                (
+                    [id] => 24
+                    [comment] => 
+                )
+
+            [24] => Array
+                (
+                    [id] => 25
+                    [comment] => 
+                )
+
+            [25] => Array
+                (
+                    [id] => 26
+                    [comment] => 
+                )
+
+            [26] => Array
+                (
+                    [id] => 27
+                    [comment] => 
+                )
+
+            [27] => Array
+                (
+                    [id] => 28
+                    [comment] => 
+                )
+
+            [28] => Array
+                (
+                    [id] => 29
+                    [comment] => 
+                )
+
+            [29] => Array
+                (
+                    [id] => 30
+                    [comment] => 
+                )
+
+            [30] => Array
+                (
+                    [id] => 31
+                    [comment] => 
+                )
+
+            [31] => Array
+                (
+                    [id] => 32
+                    [comment] => 
+                )
+
+            [32] => Array
+                (
+                    [id] => 33
+                    [comment] => 
+                )
+
+            [33] => Array
+                (
+                    [id] => 34
+                    [comment] => 
+                )
+
+        )
+
+)
+
+更新成功: ID=1, Comment=っｋ
+更新成功: ID=2, Comment=
+更新成功: ID=3, Comment=
+更新成功: ID=4, Comment=
+更新成功: ID=5, Comment=
+更新成功: ID=6, Comment=
+更新成功: ID=7, Comment=
+更新成功: ID=8, Comment=
+更新成功: ID=9, Comment=
+更新成功: ID=10, Comment=
+更新成功: ID=11, Comment=
+更新成功: ID=12, Comment=
+更新成功: ID=13, Comment=
+更新成功: ID=14, Comment=
+更新成功: ID=15, Comment=
+更新成功: ID=16, Comment=
+更新成功: ID=17, Comment=
+更新成功: ID=18, Comment=
+更新成功: ID=19, Comment=
+更新成功: ID=20, Comment=
+更新成功: ID=21, Comment=
+更新成功: ID=22, Comment=
+更新成功: ID=23, Comment=
+更新成功: ID=24, Comment=
+更新成功: ID=25, Comment=
+更新成功: ID=26, Comment=
+更新成功: ID=27, Comment=
+更新成功: ID=28, Comment=
+更新成功: ID=29, Comment=
+更新成功: ID=30, Comment=
+更新成功: ID=31, Comment=
+更新成功: ID=32, Comment=
+更新成功: ID=33, Comment=
+更新成功: ID=34, Comment=
+受信データ: Array
+(
+    [updates] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [comment] => 
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [comment] => 
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [comment] => 
+                )
+
+            [3] => Array
+                (
+                    [id] => 4
+                    [comment] => 
+                )
+
+            [4] => Array
+                (
+                    [id] => 5
+                    [comment] => 
+                )
+
+            [5] => Array
+                (
+                    [id] => 6
+                    [comment] => 
+                )
+
+            [6] => Array
+                (
+                    [id] => 7
+                    [comment] => 
+                )
+
+            [7] => Array
+                (
+                    [id] => 8
+                    [comment] => 
+                )
+
+            [8] => Array
+                (
+                    [id] => 9
+                    [comment] => 
+                )
+
+            [9] => Array
+                (
+                    [id] => 10
+                    [comment] => 
+                )
+
+            [10] => Array
+                (
+                    [id] => 11
+                    [comment] => 
+                )
+
+            [11] => Array
+                (
+                    [id] => 12
+                    [comment] => 
+                )
+
+            [12] => Array
+                (
+                    [id] => 13
+                    [comment] => 
+                )
+
+            [13] => Array
+                (
+                    [id] => 14
+                    [comment] => 
+                )
+
+            [14] => Array
+                (
+                    [id] => 15
+                    [comment] => 
+                )
+
+            [15] => Array
+                (
+                    [id] => 16
+                    [comment] => 
+                )
+
+            [16] => Array
+                (
+                    [id] => 17
+                    [comment] => 
+                )
+
+            [17] => Array
+                (
+                    [id] => 18
+                    [comment] => 
+                )
+
+            [18] => Array
+                (
+                    [id] => 19
+                    [comment] => 
+                )
+
+            [19] => Array
+                (
+                    [id] => 20
+                    [comment] => 
+                )
+
+            [20] => Array
+                (
+                    [id] => 21
+                    [comment] => 
+                )
+
+            [21] => Array
+                (
+                    [id] => 22
+                    [comment] => 
+                )
+
+            [22] => Array
+                (
+                    [id] => 23
+                    [comment] => 
+                )
+
+            [23] => Array
+                (
+                    [id] => 24
+                    [comment] => 
+                )
+
+            [24] => Array
+                (
+                    [id] => 25
+                    [comment] => 
+                )
+
+            [25] => Array
+                (
+                    [id] => 26
+                    [comment] => 
+                )
+
+            [26] => Array
+                (
+                    [id] => 27
+                    [comment] => 
+                )
+
+            [27] => Array
+                (
+                    [id] => 28
+                    [comment] => 
+                )
+
+            [28] => Array
+                (
+                    [id] => 29
+                    [comment] => 
+                )
+
+            [29] => Array
+                (
+                    [id] => 30
+                    [comment] => 
+                )
+
+            [30] => Array
+                (
+                    [id] => 31
+                    [comment] => 
+                )
+
+            [31] => Array
+                (
+                    [id] => 32
+                    [comment] => 
+                )
+
+            [32] => Array
+                (
+                    [id] => 33
+                    [comment] => 
+                )
+
+            [33] => Array
+                (
+                    [id] => 34
+                    [comment] => 
+                )
+
+        )
+
+)
+
+更新成功: ID=1, Comment=
+更新成功: ID=2, Comment=
+更新成功: ID=3, Comment=
+更新成功: ID=4, Comment=
+更新成功: ID=5, Comment=
+更新成功: ID=6, Comment=
+更新成功: ID=7, Comment=
+更新成功: ID=8, Comment=
+更新成功: ID=9, Comment=
+更新成功: ID=10, Comment=
+更新成功: ID=11, Comment=
+更新成功: ID=12, Comment=
+更新成功: ID=13, Comment=
+更新成功: ID=14, Comment=
+更新成功: ID=15, Comment=
+更新成功: ID=16, Comment=
+更新成功: ID=17, Comment=
+更新成功: ID=18, Comment=
+更新成功: ID=19, Comment=
+更新成功: ID=20, Comment=
+更新成功: ID=21, Comment=
+更新成功: ID=22, Comment=
+更新成功: ID=23, Comment=
+更新成功: ID=24, Comment=
+更新成功: ID=25, Comment=
+更新成功: ID=26, Comment=
+更新成功: ID=27, Comment=
+更新成功: ID=28, Comment=
+更新成功: ID=29, Comment=
+更新成功: ID=30, Comment=
+更新成功: ID=31, Comment=
+更新成功: ID=32, Comment=
+更新成功: ID=33, Comment=
+更新成功: ID=34, Comment=
+受信データ: Array
+(
+    [updates] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [comment] => 
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [comment] => 
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [comment] => 
+                )
+
+            [3] => Array
+                (
+                    [id] => 4
+                    [comment] => 
+                )
+
+            [4] => Array
+                (
+                    [id] => 5
+                    [comment] => 
+                )
+
+            [5] => Array
+                (
+                    [id] => 6
+                    [comment] => 
+                )
+
+            [6] => Array
+                (
+                    [id] => 7
+                    [comment] => 
+                )
+
+            [7] => Array
+                (
+                    [id] => 8
+                    [comment] => わああ
+                )
+
+            [8] => Array
+                (
+                    [id] => 9
+                    [comment] => 
+                )
+
+            [9] => Array
+                (
+                    [id] => 10
+                    [comment] => 
+                )
+
+            [10] => Array
+                (
+                    [id] => 11
+                    [comment] => 
+                )
+
+            [11] => Array
+                (
+                    [id] => 12
+                    [comment] => 
+                )
+
+            [12] => Array
+                (
+                    [id] => 13
+                    [comment] => 
+                )
+
+            [13] => Array
+                (
+                    [id] => 14
+                    [comment] => 
+                )
+
+            [14] => Array
+                (
+                    [id] => 15
+                    [comment] => 
+                )
+
+            [15] => Array
+                (
+                    [id] => 16
+                    [comment] => 
+                )
+
+            [16] => Array
+                (
+                    [id] => 17
+                    [comment] => 
+                )
+
+            [17] => Array
+                (
+                    [id] => 18
+                    [comment] => 
+                )
+
+            [18] => Array
+                (
+                    [id] => 19
+                    [comment] => 
+                )
+
+            [19] => Array
+                (
+                    [id] => 20
+                    [comment] => 
+                )
+
+            [20] => Array
+                (
+                    [id] => 21
+                    [comment] => 
+                )
+
+            [21] => Array
+                (
+                    [id] => 22
+                    [comment] => 
+                )
+
+            [22] => Array
+                (
+                    [id] => 23
+                    [comment] => 
+                )
+
+            [23] => Array
+                (
+                    [id] => 24
+                    [comment] => 
+                )
+
+            [24] => Array
+                (
+                    [id] => 25
+                    [comment] => 
+                )
+
+            [25] => Array
+                (
+                    [id] => 26
+                    [comment] => 
+                )
+
+            [26] => Array
+                (
+                    [id] => 27
+                    [comment] => 
+                )
+
+            [27] => Array
+                (
+                    [id] => 28
+                    [comment] => 
+                )
+
+            [28] => Array
+                (
+                    [id] => 29
+                    [comment] => 
+                )
+
+            [29] => Array
+                (
+                    [id] => 30
+                    [comment] => 
+                )
+
+        )
+
+)
+
+更新成功: ID=1, Comment=
+更新成功: ID=2, Comment=
+更新成功: ID=3, Comment=
+更新成功: ID=4, Comment=
+更新成功: ID=5, Comment=
+更新成功: ID=6, Comment=
+更新成功: ID=7, Comment=
+更新成功: ID=8, Comment=わああ
+更新成功: ID=9, Comment=
+更新成功: ID=10, Comment=
+更新成功: ID=11, Comment=
+更新成功: ID=12, Comment=
+更新成功: ID=13, Comment=
+更新成功: ID=14, Comment=
+更新成功: ID=15, Comment=
+更新成功: ID=16, Comment=
+更新成功: ID=17, Comment=
+更新成功: ID=18, Comment=
+更新成功: ID=19, Comment=
+更新成功: ID=20, Comment=
+更新成功: ID=21, Comment=
+更新成功: ID=22, Comment=
+更新成功: ID=23, Comment=
+更新成功: ID=24, Comment=
+更新成功: ID=25, Comment=
+更新成功: ID=26, Comment=
+更新成功: ID=27, Comment=
+更新成功: ID=28, Comment=
+更新成功: ID=29, Comment=
+更新成功: ID=30, Comment=
+受信データ: Array
+(
+    [updates] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [comment] => 
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [comment] => 
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [comment] => 
+                )
+
+            [3] => Array
+                (
+                    [id] => 4
+                    [comment] => 
+                )
+
+            [4] => Array
+                (
+                    [id] => 5
+                    [comment] => 
+                )
+
+            [5] => Array
+                (
+                    [id] => 6
+                    [comment] => 
+                )
+
+            [6] => Array
+                (
+                    [id] => 7
+                    [comment] => 
+                )
+
+            [7] => Array
+                (
+                    [id] => 8
+                    [comment] => 
+                )
+
+            [8] => Array
+                (
+                    [id] => 9
+                    [comment] => 
+                )
+
+            [9] => Array
+                (
+                    [id] => 10
+                    [comment] => 
+                )
+
+            [10] => Array
+                (
+                    [id] => 11
+                    [comment] => 
+                )
+
+            [11] => Array
+                (
+                    [id] => 12
+                    [comment] => 
+                )
+
+            [12] => Array
+                (
+                    [id] => 13
+                    [comment] => 
+                )
+
+            [13] => Array
+                (
+                    [id] => 14
+                    [comment] => 
+                )
+
+            [14] => Array
+                (
+                    [id] => 15
+                    [comment] => 
+                )
+
+            [15] => Array
+                (
+                    [id] => 16
+                    [comment] => 
+                )
+
+            [16] => Array
+                (
+                    [id] => 17
+                    [comment] => 
+                )
+
+            [17] => Array
+                (
+                    [id] => 18
+                    [comment] => 
+                )
+
+            [18] => Array
+                (
+                    [id] => 19
+                    [comment] => 
+                )
+
+            [19] => Array
+                (
+                    [id] => 20
+                    [comment] => 
+                )
+
+            [20] => Array
+                (
+                    [id] => 21
+                    [comment] => 
+                )
+
+            [21] => Array
+                (
+                    [id] => 22
+                    [comment] => 
+                )
+
+            [22] => Array
+                (
+                    [id] => 23
+                    [comment] => 
+                )
+
+            [23] => Array
+                (
+                    [id] => 24
+                    [comment] => 
+                )
+
+            [24] => Array
+                (
+                    [id] => 25
+                    [comment] => 
+                )
+
+            [25] => Array
+                (
+                    [id] => 26
+                    [comment] => 
+                )
+
+            [26] => Array
+                (
+                    [id] => 27
+                    [comment] => 
+                )
+
+            [27] => Array
+                (
+                    [id] => 28
+                    [comment] => 
+                )
+
+            [28] => Array
+                (
+                    [id] => 29
+                    [comment] => 
+                )
+
+            [29] => Array
+                (
+                    [id] => 30
+                    [comment] => 
+                )
+
+        )
+
+)
+
+更新成功: ID=1, Comment=
+更新成功: ID=2, Comment=
+更新成功: ID=3, Comment=
+更新成功: ID=4, Comment=
+更新成功: ID=5, Comment=
+更新成功: ID=6, Comment=
+更新成功: ID=7, Comment=
+更新成功: ID=8, Comment=
+更新成功: ID=9, Comment=
+更新成功: ID=10, Comment=
+更新成功: ID=11, Comment=
+更新成功: ID=12, Comment=
+更新成功: ID=13, Comment=
+更新成功: ID=14, Comment=
+更新成功: ID=15, Comment=
+更新成功: ID=16, Comment=
+更新成功: ID=17, Comment=
+更新成功: ID=18, Comment=
+更新成功: ID=19, Comment=
+更新成功: ID=20, Comment=
+更新成功: ID=21, Comment=
+更新成功: ID=22, Comment=
+更新成功: ID=23, Comment=
+更新成功: ID=24, Comment=
+更新成功: ID=25, Comment=
+更新成功: ID=26, Comment=
+更新成功: ID=27, Comment=
+更新成功: ID=28, Comment=
+更新成功: ID=29, Comment=
+更新成功: ID=30, Comment=
+受信データ: 
