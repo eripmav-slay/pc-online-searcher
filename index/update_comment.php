@@ -2,7 +2,7 @@
 require '../config/database.php';
 
 header('Content-Type: application/json');
-ob_end_clean(); // バッファをクリア
+ob_end_clean(); 
 
 $inputJSON = file_get_contents('php://input');
 $_POST = json_decode($inputJSON, true);
